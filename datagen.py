@@ -19,6 +19,7 @@ import sqlite3
 import time
 from PIL import Image, ImageDraw, ImageFont
 from faker import Faker
+email="23f1000718@ds.study.iitm.ac.in"
 
 config = {"root": "/data"}
 
